@@ -8,20 +8,21 @@ Why IOS SDK? Why we should use it?
 
 Create new project and drag SOCameraManager.framework into the Root folder of your project.
 Than Go to your project target, click on the "Build Settings" tab, and Add “SOCameraManager.framework" to Embedded Binaries in the app's General setting.
-
 [![solarized dualmode](https://github.com/spaceotech/Camera-SDK/blob/master/1.png)](#features)
 
 # Create UI/UX for custom camera.
-
 [![solarized dualmode](https://github.com/spaceotech/Camera-SDK/blob/master/2.png)](#features)
 
 # ViewController.swift
 
 import UIKit
+
 import SOCameraManager
 
 class ViewController: UIViewController {
+    
     // MARK: - Constants
+    
     let cameraManager = SOCameraManager()
     
     override func viewDidLoad() {
