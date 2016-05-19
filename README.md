@@ -12,6 +12,7 @@ Than Go to your project target, click on the "Build Settings" tab, and Add “SO
 [![solarized dualmode](https://github.com/spaceotech/Camera-SDK/blob/master/1.png)](#features)
 
 2. Create UI/UX for custom camera.
+
 [![solarized dualmode](https://github.com/spaceotech/Camera-SDK/blob/master/2.png)](#features)
 
 3. ViewController.swift
