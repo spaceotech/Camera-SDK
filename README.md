@@ -5,3 +5,4 @@ Why IOS SDK? Why we should use it?
 - Using this framework we can add different kind of functionalities like shutter speed, Video recording, slomotion recording, Photo timer, live filters. 
 
 # Installation
+[![solarized dualmode](https://github.com/spaceotech/Camera-SDK/blob/master/1.png)](#features)
